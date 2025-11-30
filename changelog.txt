@@ -1,0 +1,404 @@
+2025-10-29
+------------
+
+    - Added Vehicles 'Aston Martin DBR9', 'Dodge Viper GTS-R', 'Chevrolet Corvette C5-R', 'Maserati MC12 GT1' (GT1_05)
+                     'BMW M3 E46 GTR' (GTR_04)
+                     'Milano GT36', 'Porsche 996 GT3 RSR' (GT2_05)
+                     'Audi R8 LMP2', 'Courage C60 Hybrid', 'Dallara SP1' (LMP1_05)
+                     'Lola B05/40 Turbo', 'Lola B05/40 V8' (LMP2_05)
+    - Added Classes LMP1_05, LMP2_05, GT1_05, GT2_05, GTR_04                     
+    - Added Tracks Le_Mans_24hr_2005, Road_Atlanta_2005, Spa_Francorchamps_2005, Spa_Francorchamps_2005_EC
+    - Updated translated names for TC60S and TC60S2
+
+
+2025-10-01
+------------
+
+    - Added Vehicles 'Lamborghini Miura SV' (TC60S)
+                     'Lamborghini Murcielago R-GT' (GT1_05)
+                     'Lamborghini Diablo SV-R' (ST96)
+                     'Lamborghini Revuelto' (Hypercars)
+    - Added Classes GT1_05, ST96
+    - Various data and livery name updates
+
+
+2025-08-22
+------------
+
+    - Added Vehicles 'Formula Vee Gen2 (F-Vee_Gen2)
+                     'Ligier JS P4' (LES_2025)
+    - Added Class F-Vee_Gen2
+
+
+2025-08-5
+------------
+
+    - Fixed Nurburgring 2025 data
+
+
+2025-08-5
+------------
+
+    - Added DLC data info for Endurance Pack Pt.3 and Nurburgring 2025
+    - Fixed missing translations for LES_2025 and LMP2_Gen1 classes
+
+
+2025-07-30
+------------
+
+    - Added Vehicles 'Alpine A110 GT4 Evo' (GT4), 
+                     'Aston Martin Valkyrie Hypercar' (LMDh)
+                     'Ligier JS2 R' (LES_2025)
+    - Added Class 'LES_2025'
+
+
+2025-07-22
+------------
+
+    - Added Tracks Nordschleife_2025, Nordschleife_2025_24hr
+
+2025-07-21
+------------
+
+    - Added Vehicles 'Aston Martin Vantage GT4 Evo' (GT4)
+                     'Aston Martin Vantage GTE' (GTE)
+                     'Aston Martin Vantage GT3 Evo' (GT3)
+
+2025-07-02
+------------
+
+    - Added 'translated_name' field to http api 'vehicle_classes' data
+
+2025-03-25
+------------
+
+    - Added DLC info for STT, Fixed typo in STT livery names
+
+2025-03-14
+------------
+
+    - Added Tracks Adelaide_Modern_STT, Ibarra_STT
+
+2025-03-04
+------------
+
+    - Added Tracks Guapore_STT, Hockenheim_STT, Road America_STT, Sebring_STT, 
+                   Spielberg_STT, Cleveland_STT, Watkins_Glen_STT
+
+2025-02-26
+------------
+
+    - Added Vehicle ' Super Trophy Trucks' (STT)
+    - Added Tracks Adelaide_Modern_STT, Long_Beach_STT, Velopark_2017_STT
+    - Adjusted some vehicle and livery names for kart classes
+
+2025-01-25
+------------
+
+    - Various vehicle/track extra data updates
+
+2024-12-04
+------------
+
+    - Fixed Power/Weight data for some vehicles
+    - Added DLC data for 1.6 cycle content
+
+2024-11-12
+------------
+
+    - Added Vehicles 'Chevrolet Corvette C8 Z06 (+Z07 Upgrade)' (Supercars), Ligier JS P217 (LMP2 & LMPGen2)
+    - Various track/vehicle/livery data fixes
+
+2024-10-01
+------------
+
+    - Added Vehicles 'Alpine A424' (LMDh), 'Oreca 07' (LMP2_Gen1)
+    - Added Class 'LMP2_Gen1'
+    - Adjusted default date and grid size for varous tracks
+
+2024-09-02
+------------
+
+    - Added tracks Road_Atlanta_Moto, Sebring_Club
+    - Added Vehicles 'Chevrolet Corvette C3.R Convertible' (TC70S), Chevrolet Corvette Z06 GT3.R (GT3_Gen2)
+                                   'Lamborghini Veneno Roadster' (Hypercars), Lamborghini SC63 (LMDh)
+    - Fixed names of various historic formula vehicles
+
+2024-07-15
+------------
+
+    - Added track Sebring
+
+2024-06-19
+------------
+
+    - Added Vehicle 'Lamborghini Huracan SuperTrofeo Evo2' (Super Trofeo)
+    - Added Class 'Super Trofeo'
+    - Added Track Mosport
+
+2024-06-05
+------------
+
+    - Added Vehicles 'Audi V8 quattro DTM' (Group A), 'Ligier JS P320' (P1Gen2), 'Lamborghini Huracan GT3 EVO2' (GT3_Gen2)
+    - Added Track Road_Atlanta
+
+2024-03-29
+------------
+
+    - Added Vehicle 'Formula Ultimate Gen2' (F-Ultimate_Gen2)
+    - Renamed Vehicle 'Formula Ultimate 2019' to 'Formula Ultimate Gen1'
+
+2024-03-19
+------------
+
+    - Added Vehicles 'Chevrolet Cruze Stock Car 2024', 'Toyota Corolla Stock Car 2024' (StockCarV8_2024)
+    - Added Class StockCarV8_2024
+    - Added Track Nurb_1971_Beton
+
+2024-02-07
+------------
+
+    - Added missing DLC extra data to Endurance Pt.1 and Le Mans packs content
+    - Updated 'Mini Cooper S 1965 B' data (CopaClassicB)
+    - Fixed livery names for Reynard 2ki Honda
+
+2024-01-02
+------------
+
+    - Fixed duplicate LMDh class
+
+2024-01-01
+------------
+
+    - Added Vehicles 'BMW M Hybrid V8', 'Cadillac V-Series.R', 'Porsche 963' (LMDh)
+                     'BMW M4 GT3', 'Porsche 992 GT3 R, 'McLaren 720S GT3 R', 'Mercedes-AMG GT3 Evo' (GT3_Gen2)
+    - Added Classes LMDh, GT3_Gen2
+    - Added Tracks Le_Mans_24h, Le_Mans_Circuit_Bugatti
+
+2023-11-16
+------------
+
+    - Added DLC information for F-HiTech and Historical Pt.2 content
+
+2023-11-16
+------------
+
+    - Added Vehicles 'McLaren MP4/7A', F-HiTech_Gen1 Model1, F-HiTech_Gen1 Model2, F-HiTech_Gen1 Model3, F-HiTech_Gen1 Model4 (F-Hitech_Gen1)
+                                  'McLaren MP4/8', F-HiTech_Gen2 Model1, F-HiTech_Gen2 Model2, F-HiTech_Gen2 Model3 (F-Hitech_Gen2)
+    - Added Classes F-Hitech_Gen1, F-Hitech_Gen2
+    - Added Tracks Barcelon_1991, Circuit_de_Catalunya_NATL_NC, Interlagos_1991, Interlagos_1993, Montreal_Historic_1991
+    - Increased grid size from 6 to 8 for RX tracks
+    - Various vehicle/livery/track data updates and corrections
+
+2023-08-08
+------------
+
+    - Added RaceScheduledFullCourseYellow option (If the session should be garaunteed to have an FCY. The enum values are available via HTTP API at /api/list/enums/scheduledfcy or in Lua global tables lists.enums.scheduledfcy, ScheduledFCY and value_to_scheduledfcy)
+
+2023-08-14
+------------
+
+    - Added Vehcile Chevrolet Cruze Stock Car 2023 (StockCarV8_2023)
+    - Various vehicle/livery/track data updates and corrections 
+
+2023-07-20
+------------
+
+    - Added Vehicle 'Ginetta G58 Gen2' (P1Gen2)
+
+2023-07-20
+------------
+
+    - Added AutoAdvanceSession setting which will advance from session end leaderboard
+    - Added Vehicles 'Formula Dirt' (F-Dirt)
+                     'Mini Countryman R60 RX', 'Citroen DS3 RX', Volkswagen Polo RX', 'Mitsubishi Lancer Evo10 RX' (RX)
+                     'Kart Cross' (Kartcross)
+    - Added Classes F-Dirt, RX, Kartcross
+    - Added Tracks Ascurra_Dirt, Foz_RX, Nurb_2020_RX, Spa_Francorchamps_2022_RX, Tykki_Dirt1, 
+                   Tykki_Dirt2, Tykki_RX, Tykki_Tarmac, Hockenheim_RX, Circuit_de_Catalunya_RX
+    - Various vehicle/livery data updates and corrections
+
+2023-06-07
+------------
+
+    - Added RaceMandatoryPitStopsMinTyres - Minimum tyres required for a valid mandatory stop. (0-4)
+    - QualifyPrivateSession - Should qualifying session be private with cars running in isolation on track. (1) enabled, (0) disabled
+    - Added Vehicles 'Formula Junior' (F-Junior)
+                     'Formula USA 2023' (F-USA_2023)
+    - Added Classes F-Junior, F-USA_2023
+    - added Tracks Circuit_de_Catalunya_GP, Circuit_de_Catalunya_GP_NC
+    - Vehicle data updates
+
+2023-04-21
+------------
+
+    - Added Vehicles 'Chevrolet Cruze Stock Car 2023', 'Toyota Corolla Stock Car 2023' (StockCarV8_2023)
+    - Added class StockCarV8_2023
+    - Added tracks Nurb_1971_Gesamt, Nurb_1971_Nords, Nurb_1971_Suds
+    - Various fixes to some translations strings, extra data, livery names
+
+2023-03-03
+------------
+
+    - Added Vehicle 'Formula Inter MG-15' (F-Inter)
+    - Minor fixes to some strings, extra data, livery names
+
+2023-02-07
+------------
+
+    - Added track Bathurst_1983
+    - Increased Spa 77 grid size to 32w
+    - RandomFailures is now an enum value with timescaling options (old 0 and 1 still map to off and standard)
+    - Livery & supplimentary data updates
+    - Fixed various translated name
+
+    - Added tracks Cascais_1988, Jerez_GP1988
+    - Added classes F-Classic_Gen4 (formerly F-Classic_Gen3), Hypercars, Supercars
+    - Added Vehicles 'McLaren Senna', 'Brabham BT62' (HyperCars)
+                     'Chevrolet Corvette C8 Z06' (Supercars)
+                     'Lotus 98T' (F-Classic_Gen1), 
+                     'McLaren MP4/4' (F-Classic_Gen2)
+                     'McLaren MP4/5B', 'Formula Classic Gen3 Model4' (F-Classic_Gen3),
+                     'McLaren MP4/6, 'Formula Classic Gen4 Model1', 'Formula Classic Gen4 Model2', 'Formula Classic Gen4 Model3' (F-Classic_Gen4)
+                     'Lotus 72E' (F-Retro_Gen1), 
+                     'Brabham BT49' (F-Retro_Gen2), 
+                     'Brabham BT52' (F-Retro_Gen3)
+                     'Nissan GT-R Nismo GT3' (GT3), 
+                     'Nissan R390 GT1' (GT1)
+                     'Nissan R89C' (Group C)
+
+2022-11-09
+------------
+
+    - Added tracks Indianapolis_2022_Oval, Indianapolis_2022_RC, Spa_Francorchamps_1970, Spa_Francorchamps_1970_1000km
+    - Added vehicle Chevrolet Corvette GTP (Group C)
+
+2022-08-27
+------------
+
+    - Added tracks Daytona_Speedway_Tri_Oval, Fontana_OVAL, Fontana_SCC, Gateway_OVAL, Gateway_RC1, Gateway_RC2
+    - Fixed Jacarepagua_OVAL max grid size
+    - DamageScale is now an enum in line with game client setting ("LOW", "MEDIUM", "HIGH", "MAX") http://localhost:9000/api/list/enums/damage_scale
+    - Added DamageRandomFailures setting to enable/disable random failures (valid values 0 & 1)
+    - Added FullCourseYellows setting to enable/disable random failures (valid values 0 & 1)
+    - Livery & supplimentary data updates
+
+2022-07-10
+------------
+
+    - Data update
+
+2022-07-01
+------------
+
+    - Added tracks Cordoba_GP, Cordoba_NATL
+
+2022-07-05
+------------
+
+    - Added track buenos_aires_6T
+
+2022-06-25
+------------
+
+    - Added tracks buenos_aires_6, buenos_aires_7, buenos_aires_8, buenos_aires_9, buenos_aires_12, buenos_aires_15, Cordoba_International
+
+2022-05-18
+------------
+
+    - Added dlc name to veh/track extra_data
+    - Add translated name to track extra_data
+
+2022-05-03
+------------
+
+    - Include SteamID in participant information logged by sms_stats
+    - Added supplementary track and vehicle information to http api. Call main, vehicle, or track list endpoints with query param extra_data=1 to access.
+
+2022-04-22
+------------
+    
+    - Added classes F-Ultimate_Gen2 (Formula Ultimate Gen2) and StockCarV8_2022 (Chevrolet Cruze Stock Car 2022, Toyota Corolla Stock Car 2020)
+    - Added track Galeao_Airport
+
+2022-03-07
+------------
+    
+    - Added class F-USA_Gen1 (Reynard 95i, Lola T95)
+
+2022-01-31
+------------
+    
+    - Added class F-USA_Gen3 (Lola B2K00 xxx, Reynard 2Ki xxx) and F-Retro_Gen3 (McLaren MP4/1C, Formula Retro Gen3 xxx)
+    - Added track Road_America_RC
+
+2021-10-12
+------------
+    
+    - Added class TC60S2 (slower cars split from TC60S)
+
+2021-09-30
+------------
+    
+    - Added vehicles: BMW 2002 Turbo (TC60S)
+    - Added tracks: Monza_2020, Monza_1991, Monza_2020_junior, Monza_1971, Monza_1971_junior, Monza_1971_10k, Monza_1971_10knc
+
+2021-08-30
+------------
+
+    - Added vehicles: C3 / C3 R
+    - Added support for disabling pitstop refuelling ("DisablePitstopRefuelling" - Prevents refuelling during pitstops when set to 1)
+    - Added support for timed races to have 1 full lap appended after the race time expires ("RaceExtraLap" - When enabled an extra full lap will be added to the race distance of timed races. Set to 0/1 to disable/enable.)
+    - Added Option to scale vehicle damage ("DamageScale" - Scales the forces required to damage/detach parts when vehicle damage is enabled. Valid values (percentages) are multiples of 25 between 25 and 200. Invalid values will round down to nearest valid value. Defaults to 100 when unset)
+
+2021-07-30
+------------
+
+    - Added track: Interlagos_SCB (modern Stock Car variant)
+
+2021-07-24
+------------
+
+    - Added class: TC70S (Porsche RSR)
+    - Added tracks: Cascais_Alternate, Salvador_Street_Circuit
+
+2021-07-02
+------------
+
+    - Added support for LiveTrack Presets. ("PracticeLiveTrackPreset", "QualifyLiveTrackPreset", "RaceLiveTrackPreset" ) http://localhost:9000/api/list/enums/livetrack_preset
+
+2021-06-19
+------------
+
+    - Fix librotate attempting to access uninitioalised DateProgreassion attributes (nil value error)
+
+2021-06-17
+------------
+
+    - Added WAIT_FOR_RACE_READY_INPUT switch to realism settings of session attributes http page.
+    - Reinstated custom date options in http/lua/rotate configs ("RaceDateDay", "RaceDateMonth", "RaceDateYear")
+    - Reinstated Real Weather option on http ui.
+    - Update lib rotate to ensure Real Weather progression matches time progression and can never be sync to race.
+
+2021-05-29
+------------
+
+    - Add data for GTE class, Lagun Seca, Daytona, and Long Beach
+
+2021-03-31
+------------
+
+    - Add data for new tracks: Jacarepagua_2005, Jacarepagua_OVAL, Jacarepagua_SCB, Jacarepagua_SHORT
+    - Rename F-Retro to F-Retro_Gen1 and add F-Retro_Gen2
+    - Fix incorrect default dates for various tracks
+
+2021-02-27
+------------
+
+    - Add data for StockCar 99, StockCar 21, Group C, Spa 93
+
+2021-02-23
+------------
+
+    - Add support for MultiClassSlot4 .. MultiClassSlot9 in configs + http api
+    - Data update addressing incorrect garage count on some tracks
