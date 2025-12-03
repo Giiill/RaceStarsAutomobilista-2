@@ -28,7 +28,7 @@ config : {
         "TireWearType" : "STANDARD",
         "FuelUsageType" : "STANDARD",
         "PenaltiesType" : "FULL",
-        "AllowedViews" : "Any",
+        "AllowedViews" : "Same Class",
 
         "RaceDateHour" : 15,
 
