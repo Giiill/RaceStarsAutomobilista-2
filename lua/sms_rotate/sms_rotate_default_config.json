@@ -19,8 +19,8 @@ config : {
     // - В настройке не должно одновременно присутствовать VehicleModelId и VehicleClassId. Укажите либо класс, либо конкретный автомобиль.
     // - Атрибут Flags не должен содержать FORCE_IDENTICAL_VEHICLES или FORCE_SAME_VEHICLE_CLASS, эти флаги определяются автоматически.
     "default" : {
-        "PracticeLength" : 10,
-        "QualifyLength" : 10,
+        "PracticeLength" : 0,
+        "QualifyLength" : 15,
         "RaceLength" : 10,
 
         "Flags" : "ALLOW_CUSTOM_VEHICLE_SETUP,ABS_ALLOWED,SC_ALLOWED,TCS_ALLOWED,FORCE_REALISTIC_DRIVING_AIDS,FILL_SESSION_WITH_AI,AUTO_START_ENGINE,TIMED_RACE,PIT_SPEED_LIMITER",
