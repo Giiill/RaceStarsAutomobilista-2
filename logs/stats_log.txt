@@ -1,0 +1,53 @@
+
+
+[2025-12-04 19:39:12] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2025-12-05 00:03:43] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:04:53] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:06:08] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:07:26] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:07:52] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:08:19] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:08:36] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:08:55] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:09:29] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:09:35] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:09:55] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:10:50] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:10:56] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:11:35] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:12:22] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:12:50] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:13:10] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:13:19] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:13:24] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:13:35] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:13:37] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:13:40] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:13:44] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:13:56] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:14:08] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:14:33] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:14:38] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:15:52] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:15:58] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:16:56] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:16:56] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:16:56] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2025-12-05 00:23:58] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2025-12-05 00:25:58] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2025-12-05 00:32:00] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2025-12-05 00:35:41] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2025-12-06 18:33:25] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2025-12-06 19:00:40] [AppID 1066890] CAPIJobStoreUserStats::BInit() - no stats found, aborting

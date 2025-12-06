@@ -1,6 +1,12 @@
 2025-10-29
 ------------
 
+    - Fixed Kyalami_Historic max grid size
+    - Added extra data DLC info for Historical Track Pack Pt.3 and Historical Endurance Pack Pt.1 content
+
+2025-10-29
+------------
+
     - Added Vehicles 'Aston Martin DBR9', 'Dodge Viper GTS-R', 'Chevrolet Corvette C5-R', 'Maserati MC12 GT1' (GT1_05)
                      'BMW M3 E46 GTR' (GTR_04)
                      'Milano GT36', 'Porsche 996 GT3 RSR' (GT2_05)

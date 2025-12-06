@@ -1,3 +1,78 @@
 
 
 [2025-11-09 22:55:47] Loaded 0 apps from install folder "C:\Program Files (x86)\Automobilista 2 - Dedicated Server\steamapps\appmanifest_*.acf".
+
+
+[2025-12-04 18:40:08] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\steamapps\appmanifest_*.acf".
+
+
+[2025-12-04 18:44:41] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\steamapps\appmanifest_*.acf".
+
+
+[2025-12-04 18:48:05] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\steamapps\appmanifest_*.acf".
+
+
+[2025-12-04 18:51:14] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\steamapps\appmanifest_*.acf".
+
+
+[2025-12-04 19:01:17] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\steamapps\appmanifest_*.acf".
+
+
+[2025-12-04 19:04:15] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\steamapps\appmanifest_*.acf".
+
+
+[2025-12-04 19:12:47] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\steamapps\appmanifest_*.acf".
+
+
+[2025-12-04 19:29:37] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\steamapps\appmanifest_*.acf".
+
+
+[2025-12-04 19:44:18] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\steamapps\appmanifest_*.acf".
+
+
+[2025-12-04 19:45:33] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\steamapps\appmanifest_*.acf".
+
+
+[2025-12-04 20:05:59] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\steamapps\appmanifest_*.acf".
+
+
+[2025-12-04 22:46:23] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\steamapps\appmanifest_*.acf".
+
+
+[2025-12-04 20:32:41] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\steamapps\appmanifest_*.acf".
+
+
+[2025-12-04 20:33:20] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\steamapps\appmanifest_*.acf".
+
+
+[2025-12-04 20:41:10] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\steamapps\appmanifest_*.acf".
+
+
+[2025-12-04 20:44:00] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\steamapps\appmanifest_*.acf".
+
+
+[2025-12-04 20:44:46] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\steamapps\appmanifest_*.acf".
+
+
+[2025-12-05 00:16:56] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\steamapps\appmanifest_*.acf".
+
+
+[2025-12-05 00:25:58] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\steamapps\appmanifest_*.acf".
+
+
+[2025-12-05 00:32:01] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\steamapps\appmanifest_*.acf".
+
+
+[2025-12-05 00:33:41] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\steamapps\appmanifest_*.acf".
+
+
+[2025-12-06 18:32:24] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\steamapps\appmanifest_*.acf".
+
+
+[2025-12-06 18:56:00] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\steamapps\appmanifest_*.acf".
+
+
+[2025-12-06 18:58:14] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\steamapps\appmanifest_*.acf".
+
+
+[2025-12-06 19:09:22] Loaded 0 apps from install folder "C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\steamapps\appmanifest_*.acf".

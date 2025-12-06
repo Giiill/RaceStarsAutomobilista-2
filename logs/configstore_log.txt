@@ -2,3 +2,105 @@
 
 [2025-11-09 22:55:47] Failed to read store 'install' from 'C:\Program Files (x86)\Automobilista 2 - Dedicated Server\config\config.vdf.tmp'
 [2025-11-09 22:55:50] Flushed store 'install' to 'C:\Program Files (x86)\Automobilista 2 - Dedicated Server\config\config.vdf'
+
+
+[2025-12-04 18:40:08] Loaded store 'install' from 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf' successfully
+[2025-12-04 18:40:11] Flushed store 'install' to 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf'
+
+
+[2025-12-04 18:44:41] Loaded store 'install' from 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf' successfully
+[2025-12-04 18:44:44] Flushed store 'install' to 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf'
+
+
+[2025-12-04 18:48:05] Loaded store 'install' from 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf' successfully
+[2025-12-04 18:48:07] Flushed store 'install' to 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf'
+
+
+[2025-12-04 18:51:14] Loaded store 'install' from 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf' successfully
+[2025-12-04 18:51:16] Flushed store 'install' to 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf'
+
+
+[2025-12-04 19:01:17] Loaded store 'install' from 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf' successfully
+[2025-12-04 19:01:19] Flushed store 'install' to 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf'
+
+
+[2025-12-04 19:04:15] Loaded store 'install' from 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf' successfully
+[2025-12-04 19:04:17] Flushed store 'install' to 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf'
+
+
+[2025-12-04 19:12:47] Loaded store 'install' from 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf' successfully
+[2025-12-04 19:12:49] Flushed store 'install' to 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf'
+
+
+[2025-12-04 19:29:37] Loaded store 'install' from 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf' successfully
+[2025-12-04 19:29:39] Flushed store 'install' to 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf'
+
+
+[2025-12-04 19:44:18] Loaded store 'install' from 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf' successfully
+[2025-12-04 19:44:20] Flushed store 'install' to 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf'
+
+
+[2025-12-04 19:45:33] Loaded store 'install' from 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf' successfully
+[2025-12-04 19:45:35] Flushed store 'install' to 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf'
+
+
+[2025-12-04 20:05:59] Loaded store 'install' from 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf' successfully
+[2025-12-04 20:06:01] Flushed store 'install' to 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf'
+[2025-12-04 20:36:01] Flushed store 'install' to 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf'
+
+
+[2025-12-04 22:46:23] Loaded store 'install' from 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf' successfully
+[2025-12-04 22:46:25] Flushed store 'install' to 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf'
+[2025-12-04 23:16:25] Flushed store 'install' to 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf'
+
+
+[2025-12-04 20:32:41] Loaded store 'install' from 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf' successfully
+
+
+[2025-12-04 20:33:20] Loaded store 'install' from 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf' successfully
+[2025-12-04 20:33:23] Flushed store 'install' to 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf'
+
+
+[2025-12-04 20:41:10] Loaded store 'install' from 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf' successfully
+[2025-12-04 20:41:13] Flushed store 'install' to 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf'
+
+
+[2025-12-04 20:44:00] Loaded store 'install' from 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf' successfully
+
+
+[2025-12-04 20:44:46] Loaded store 'install' from 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf' successfully
+[2025-12-04 20:44:48] Flushed store 'install' to 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf'
+[2025-12-05 00:14:49] Flushed store 'install' to 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf'
+
+
+[2025-12-05 00:16:56] Loaded store 'install' from 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf' successfully
+[2025-12-05 00:16:59] Flushed store 'install' to 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf'
+
+
+[2025-12-05 00:25:58] Loaded store 'install' from 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf' successfully
+[2025-12-05 00:26:01] Flushed store 'install' to 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf'
+
+
+[2025-12-05 00:32:01] Loaded store 'install' from 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf' successfully
+[2025-12-05 00:32:03] Flushed store 'install' to 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf'
+
+
+[2025-12-05 00:33:41] Loaded store 'install' from 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf' successfully
+[2025-12-05 00:33:43] Flushed store 'install' to 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf'
+
+
+[2025-12-06 18:32:24] Loaded store 'install' from 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf' successfully
+[2025-12-06 18:32:27] Flushed store 'install' to 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf'
+
+
+[2025-12-06 18:56:00] Loaded store 'install' from 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf' successfully
+[2025-12-06 18:56:02] Flushed store 'install' to 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf'
+
+
+[2025-12-06 18:58:14] Loaded store 'install' from 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf' successfully
+[2025-12-06 18:58:16] Flushed store 'install' to 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf'
+
+
+[2025-12-06 19:09:22] Loaded store 'install' from 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf' successfully
+[2025-12-06 19:09:24] Flushed store 'install' to 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf'
+[2025-12-06 19:39:24] Flushed store 'install' to 'C:\Users\Administrator\Desktop\RaceStarsAutomobilista-2\config\config.vdf'

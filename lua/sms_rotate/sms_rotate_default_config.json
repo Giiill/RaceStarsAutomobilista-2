@@ -1,72 +1,75 @@
-// Версия конфигурации.
+// Config version.
 version : 7
 
-// Значения по умолчанию.
+// Default configuration.
 config : {
 
-    // Является ли текущий индекс ротации постоянным? Если true, ротация продолжится после перезапуска сервера,
-    // Если false, ротация всегда начнется с первой настройки.
-    // Вы всегда можете удалить файл sms_rotate_data.json из lua_config, чтобы сбросить сохраненный индекс.
-    "persist_index" : true,
+	// Is the current rotation index persistent? If true, the rotation will continue after server restart,
+	// If false, the rotation will always start from the first setup.
+	// You can always delete the sms_rotate_data.json file from lua_config to reset the persisted index.
+	"persist_index" : true,
 
-    // Значения по умолчанию для настройки. Это таблица с атрибутами и значениями. Следующие правила применяются к атрибутам:
-    // - Если указано TrackId: трасса, которую необходимо установить. Автоматически устанавливает 1 для ServerControlsTrack
-    // - Если указано VehicleModelId: автомобиль, который необходимо установить. Автоматически устанавливает 1 для ServerControlsVehicle, устанавливает FORCE_IDENTICAL_VEHICLES в Flags
-    // - Если указано VehicleClassId: класс, который необходимо установить. Автоматически устанавливает 1 для ServerControlsVehicleClass, устанавливает FORCE_SAME_VEHICLE_CLASS в Flags
-    // - Трасса, модель автомобиля, класс и все атрибуты enum/flags могут использовать значения в строковом виде — так что можно использовать либо id трассы, либо название.
-    // - Flags в виде строки могут содержать несколько флагов, разделенных запятой, например "ABS_ALLOWED,SC_ALLOWED,TCS_ALLOWED"
-    // - В настройке не должно быть никаких атрибутов, начинающихся с "ServerControls", они определяются автоматически.
-    // - В настройке не должно одновременно присутствовать VehicleModelId и VehicleClassId. Укажите либо класс, либо конкретный автомобиль.
-    // - Атрибут Flags не должен содержать FORCE_IDENTICAL_VEHICLES или FORCE_SAME_VEHICLE_CLASS, эти флаги определяются автоматически.
-    "default" : {
-        "PracticeLength" : 0,
-        "QualifyLength" : 15,
-        "RaceLength" : 10,
+	// The default setup. This is a table with attributes and values. The following rules apply to the attributes:
+	// - If TrackId is specified: The track to enforce. Automatically sets 1 to ServerControlsTrack
+	// - If VehicleModelId is specified: The vehicle to enforce. Automatically sets 1 to ServerControlsVehicle, sets FORCE_IDENTICAL_VEHICLES to Flags
+	// - If VehicleClassId is specified: The class to enforce. Automatically sets 1 to ServerControlsVehicleClass, sets FORCE_SAME_VEHICLE_CLASS to Flags
+	// - Track, vehicle model, vehicle class and all enum/flags attributes can use values in string forms - so you can use either track id, or track name.
+	// - Flags in string form can contain multiple flags separated by comma, so for example "ABS_ALLOWED,SC_ALLOWED,TCS_ALLOWED"
+	// - The setup should never contain any of the "ServerControls" attributes, those are decided automatically.
+	// - The setup should never contain both VehicleModelId and VehicleClassId at the same time. Restrict either the class or specific vehicle.
+	// - The Flags attribute should never contain FORCE_IDENTICAL_VEHICLES or FORCE_SAME_VEHICLE_CLASS flags, those are decided automatically.
+	"default" : {
+		"PracticeLength" : 10,
+		"QualifyLength" : 10,
+		"RaceLength" : 10,
 
-        "Flags" : "ALLOW_CUSTOM_VEHICLE_SETUP,ABS_ALLOWED,SC_ALLOWED,TCS_ALLOWED,FORCE_REALISTIC_DRIVING_AIDS,FILL_SESSION_WITH_AI,AUTO_START_ENGINE,TIMED_RACE,PIT_SPEED_LIMITER",
-        "DamageType" : "FULL",
-        "TireWearType" : "STANDARD",
-        "FuelUsageType" : "STANDARD",
-        "PenaltiesType" : "FULL",
-        "AllowedViews" : "ANY",
+		"Flags" : "ALLOW_CUSTOM_VEHICLE_SETUP,ABS_ALLOWED,SC_ALLOWED,TCS_ALLOWED,FORCE_REALISTIC_DRIVING_AIDS,FILL_SESSION_WITH_AI,AUTO_START_ENGINE,TIMED_RACE,PIT_SPEED_LIMITER",
+		"DamageType" : "FULL",
+		"TireWearType" : "STANDARD",
+		"FuelUsageType" : "STANDARD",
+		"PenaltiesType" : "FULL",
+		"AllowedViews" : "Any",
 
-        "RaceDateHour" : 15,
+		"RaceDateHour" : 15,
 
-        "RaceWeatherSlots" : 1,
-        "RaceWeatherSlot1" : "Clear",
-        "RaceWeatherSlot2" : "Clear",
-        "RaceWeatherSlot3" : "Clear",
-        "RaceWeatherSlot4" : "Clear",
-    },
+		"RaceWeatherSlots" : 1,
+		"RaceWeatherSlot1" : "Clear",
+		"RaceWeatherSlot2" : "Clear",
+		"RaceWeatherSlot3" : "Clear",
+		"RaceWeatherSlot4" : "Clear",
+	},
 
-    // Ротация. Массив настроек для последовательной смены. Если он пустой, будет использована только настройка по умолчанию без ротации.
-    //
-    // Эти настройки применяются поверх настроек по умолчанию, затем к игре. Предыдущая настройка в ротации никогда не используется.
-    // Например, если вы хотите повторять одну и ту же трассу в нескольких последовательных настройках, отличных от настроек по умолчанию,
-    // каждую из них нужно явно включить эту трассу. Также не забывайте, что кроме флагов, ничего не может быть "удалено" из настроек по умолчанию,
-    // поэтому если в настройках по умолчанию есть трасса, она всегда будет принудительно установлена (или по умолчанию, или конкретная для настройки).
-    // И еще одно: эти переопределяющие настройки никогда не могут содержать атрибут, которого нет в настройках по умолчанию — они могут только перекрывать некоторые из них, но не добавлять новые. Исключение — атрибуты трассы/автомобиля/класса.
-    //
-    // Атрибуты в этих настройках могут иметь специальный атрибут RemoveFlags, который удалит указанные флаги из настроек по умолчанию вместо их добавления.
-    "rotation" : [
-        {
-            "TrackId" : "Nordschleife_2020_24hr",
-            "VehicleClassId" : "StockCarV8",
-        },
-        {
-            "VehicleClassId" : "SprintRace",
-            "TrackId" : "Londrina Long",
-            // Формула C на Silverstone с глупыми настройками времени/погоды. Квалификация 10 минут, гонка 5 кругов.
-            // переопределите время начала и длину гонки
-            "RaceLength" : 8,
-            "RaceDateHour" : 17,
-            
-            // установите погоду для этого события
-            "RaceWeatherSlots" : 4,
-            "RaceWeatherSlot1" : "Clear",
-            "RaceWeatherSlot2" : "MediumCloud",
-            "RaceWeatherSlot3" : "Storm",
-            "RaceWeatherSlot4" : "LightCloud",
-        }
-    ]
+	// The rotation. Array of setups to rotate. If empty, just the default setup will be used with no actual rotation happening.
+	//
+	// These setups are applied on top of the default setup, then applied to the game. Previous setup in the rotation is never used.
+	// So for example if you wanted to repeat the same track in multiple consecutive setups, different from the default track,
+	// each of those setups needs to explicitly include that track. Also remember that apart from the flags nothing can be "removed"
+	// from the default setup, so if the default setup contains a track, some track will always be enforced (either the default one,
+	// or the setup-specific one). And one last thing, these override setups can never include an attribute that's not specified in
+	// the default setup - it can just override some of the default attributes, not add new ones. The only exception are the
+	// track/vehicle/class attributes.
+	//
+	// Attributes in these setups can have a special attribute RemoveFlags set, which will remove the specified flags from the default
+	// setup instead of adding them to it (which is what the Flags attribute will do)
+	"rotation" : [
+		{
+			"TrackId" : "Interlagos",
+			"VehicleClassId" : "StockCarV8",
+		},
+		{
+			"VehicleClassId" : "SprintRace",
+			"TrackId" : "Londrina Long",
+			// Formula C on Silverstone with silly time/weather settings. 10 minutes qualify then 5 lap race.
+			// override start time and race length
+			"RaceLength" : 8,
+			"RaceDateHour" : 17,
+			
+			// set weather for this event
+			"RaceWeatherSlots" : 4,
+			"RaceWeatherSlot1" : "Clear",
+			"RaceWeatherSlot2" : "MediumCloud",
+			"RaceWeatherSlot3" : "Storm",
+			"RaceWeatherSlot4" : "LightCloud",
+		}
+	]
 }

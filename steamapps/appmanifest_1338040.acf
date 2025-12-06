@@ -1,0 +1,39 @@
+"AppState"
+{
+	"appid"		"1338040"
+	"Universe"		"1"
+	"LauncherPath"		"C:\\Users\\Administrator\\Desktop\\Steam\\steamcmd.exe"
+	"name"		"Automobilista 2 - Dedicated Server"
+	"StateFlags"		"4"
+	"installdir"		"Automobilista 2 - Dedicated Server"
+	"LastUpdated"		"1765042567"
+	"LastPlayed"		"0"
+	"SizeOnDisk"		"16085913"
+	"StagingSize"		"0"
+	"buildid"		"20970130"
+	"LastOwner"		"0"
+	"DownloadType"		"1"
+	"UpdateResult"		"0"
+	"BytesToDownload"		"5390032"
+	"BytesDownloaded"		"5390032"
+	"BytesToStage"		"16085913"
+	"BytesStaged"		"16085913"
+	"TargetBuildID"		"20970130"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"1338041"
+		{
+			"manifest"		"8871006333329540746"
+			"size"		"16085913"
+		}
+	}
+	"UserConfig"
+	{
+	}
+	"MountedConfig"
+	{
+	}
+}

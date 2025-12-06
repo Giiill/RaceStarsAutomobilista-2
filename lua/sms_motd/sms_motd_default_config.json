@@ -1,27 +1,27 @@
-// Версия конфигурации
+// Config version
 version : 1
 
-// Значения по умолчанию
+// Default configuration
 config : {
 
-    // Сообщение, которое будет отправлено каждому новому участнику сессии. Если оно пустое, будет использовано: "Добро пожаловать на 'SERVER_NAME'".
-    "motd" : "Добро пожаловать на RaceStars",
+	// The message to send to each new session member. If empty, "Welcome to 'SERVER_NAME'" will be used.
+	"motd" : "",
 
-    // Массив полей настройки, которые будут отправлены, если необходимо вывести больше, чем сообщение приветствия. Разрешенные поля:
-    // - "controls" — что контролируется сервером (настройка, трасса, автомобиль, класс)
-    // Если сервер не управляет настройкой, ничего другого выводиться не будет. Если управляет:
-    // - "format" — формат гонки (тренировка/квалификация и т.д.)
-    // - "restrictions" — различные ограничения (несколько строк)
-    // - "weather" — погодные переходы и скорость
-    // - "date" — дата/время начала и скорость
-    "send_setup" : [
-        "controls",
-        "format",
-        // "restrictions", // комментарий, так как это слишком много спама, отключено по умолчанию, раскомментируйте для получения этих данных в сообщении
-        "weather",
-        "date"
-    ],
+	// Array of setup fields to send, if more than the motd should be printed. The allowed fields are:
+	// - "controls" - what's controlled by the server (setup, track, vehicle, class)
+	// If the server does not control the setup, nothing else will be ever printed. If it does:
+	// - "format" - race format (practice/qualify/etc)
+	// - "restrictions" - various restrictions (few lines)
+	// - "weather" - weather transitions and speed
+	// - "date" - starting date/time and speed
+	"send_setup" : [
+		"controls",
+		"format",
+		// "restrictions", // quote spammy so disabled by default, uncomment to get these details in the message
+		"weather",
+		"date"
+	],
 
-    // Отправлять эти сообщения всем также после возвращения в лобби?
-    "send_when_returning_to_lobby" : true,
+	// Send the messages  to everyone also after returning back to the lobby?
+	"send_when_returning_to_lobby" : true,
 }

@@ -1,20 +1,20 @@
-// Версия конфигурации
+// Config version
 version : 2
 
-// Значения по умолчанию
+// Default configuration
 config : {
 
-    // Ограничение длины истории. Самые старые сессии будут удалены из истории.
-    // Используйте 0, чтобы полностью отключить отслеживание истории сессий.
-    // Используйте отрицательное число для неограниченной истории.
-    "history_length" : 50,
+	// Length limit for the history. Oldest sessions will be removed from the history.
+	// Use 0 to completely disable session history tracking.
+	// Use negative number for infinite history.
+	"history_length" : 50,
 
-    // Следует ли отслеживать события участников в истории?
-    // Если включено, будут отслеживаться следующие типы событий участников по этапам:
-    // Круг, Состояние, Влияние, Начало нарушения трассы, Окончание нарушения трассы
-    "track_events" : false,
+	// Should the history track session events?
+	// If enabled, these participant event types will be tracked per stage:
+	// Lap, State, Impact, CutTrackStart, CutTrackEnd
+	"track_events" : false,
 
-    // Следует ли отслеживать результаты сессии?
-    // Если включено, будут отслеживаться события участников с результатами по этапам.
-    "track_results" : true,
+	// Should the history track session results?
+	// If enabled, the Results participant events will be tracked per stage.
+	"track_results" : true,
 }
