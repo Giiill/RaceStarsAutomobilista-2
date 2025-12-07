@@ -246,3 +246,170 @@
 [2025-12-06 19:09:22] [1,4] Connect() starting connection (eNetQOSLevelMedium, 155.133.226.76:27017, UDP)
 [2025-12-06 19:09:23] [1,4] ConnectionCompleted() (155.133.248.39:27017, UDP)
 [2025-12-06 19:09:23] [1,4] RecvMsgClientLogOnResponse() : [A:1:2566476824:47952] 'OK'
+
+
+[2025-12-07 00:20:40] Log session started
+[2025-12-07 00:20:40] [0,0] SetSteamID( [A:1:0:0] )
+[2025-12-07 00:20:40] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api. . .
+[2025-12-07 00:20:40] CCMInterface::YieldingConnect -- got 85 CMs from ISteamDirectory/GetCMList.
+[2025-12-07 00:20:40] [1,4] Connect() starting connection (eNetQOSLevelMedium, 155.133.226.76:27017, UDP)
+[2025-12-07 00:20:41] [1,4] ConnectionCompleted() (155.133.248.38:27017, UDP)
+[2025-12-07 00:20:41] [1,4] RecvMsgClientLogOnResponse() : [A:1:1488840719:47954] 'OK'
+
+
+[2025-12-07 00:37:47] Log session started
+[2025-12-07 00:37:47] [0,0] SetSteamID( [A:1:0:0] )
+[2025-12-07 00:37:47] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api. . .
+[2025-12-07 00:37:48] CCMInterface::YieldingConnect -- got 85 CMs from ISteamDirectory/GetCMList.
+[2025-12-07 00:37:48] [1,4] Connect() starting connection (eNetQOSLevelMedium, 155.133.226.76:27017, UDP)
+[2025-12-07 00:37:49] [1,4] ConnectionCompleted() (155.133.252.39:27017, UDP)
+[2025-12-07 00:37:49] [1,4] RecvMsgClientLogOnResponse() : [A:1:2075320335:47954] 'OK'
+
+
+[2025-12-07 00:39:58] Log session started
+[2025-12-07 00:39:58] [0,0] SetSteamID( [A:1:0:0] )
+[2025-12-07 00:39:58] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api. . .
+[2025-12-07 00:39:58] CCMInterface::YieldingConnect -- got 85 CMs from ISteamDirectory/GetCMList.
+[2025-12-07 00:39:58] [1,4] Connect() starting connection (eNetQOSLevelMedium, 155.133.226.74:27017, UDP)
+[2025-12-07 00:39:59] [1,4] ConnectionCompleted() (162.254.196.68:27017, UDP)
+[2025-12-07 00:39:59] [1,4] RecvMsgClientLogOnResponse() : [A:1:2076257295:47954] 'OK'
+
+
+[2025-12-07 00:42:15] Log session started
+[2025-12-07 00:42:15] [0,0] SetSteamID( [A:1:0:0] )
+[2025-12-07 00:42:15] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api. . .
+[2025-12-07 00:42:16] CCMInterface::YieldingConnect -- got 85 CMs from ISteamDirectory/GetCMList.
+[2025-12-07 00:42:16] [1,4] Connect() starting connection (eNetQOSLevelMedium, 155.133.226.74:27017, UDP)
+[2025-12-07 00:42:17] [1,4] ConnectionCompleted() (155.133.226.78:27017, UDP)
+[2025-12-07 00:42:17] [1,4] RecvMsgClientLogOnResponse() : [A:1:2077483023:47954] 'OK'
+
+
+[2025-12-07 03:12:21] Log session started
+[2025-12-07 03:12:21] [0,0] SetSteamID( [A:1:0:0] )
+[2025-12-07 03:12:21] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api. . .
+[2025-12-07 03:12:22] CCMInterface::YieldingConnect -- got 85 CMs from ISteamDirectory/GetCMList.
+[2025-12-07 03:12:22] [1,4] Connect() starting connection (eNetQOSLevelMedium, 155.133.226.76:27017, UDP)
+[2025-12-07 03:12:23] [1,4] ConnectionCompleted() (155.133.226.78:27017, UDP)
+[2025-12-07 03:12:23] [1,4] RecvMsgClientLogOnResponse() : [A:1:2639342607:47955] 'OK'
+
+
+[2025-12-07 03:14:45] Log session started
+[2025-12-07 03:14:45] [0,0] SetSteamID( [A:1:0:0] )
+[2025-12-07 03:14:45] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api. . .
+[2025-12-07 03:14:45] CCMInterface::YieldingConnect -- got 85 CMs from ISteamDirectory/GetCMList.
+[2025-12-07 03:14:45] [1,4] Connect() starting connection (eNetQOSLevelMedium, 155.133.226.74:27017, UDP)
+[2025-12-07 03:14:46] [1,4] ConnectionCompleted() (162.254.198.46:27017, UDP)
+[2025-12-07 03:14:46] [1,4] RecvMsgClientLogOnResponse() : [A:1:2640280591:47955] 'OK'
+[2025-12-07 04:37:15] [0,0] ConnectionDisconnected('I/O Operation Failed') : 'OK' (162.254.198.46:27017, UDP)
+[2025-12-07 04:37:15] [0,0] StartAutoReconnect() will start in 0 seconds
+[2025-12-07 04:37:15] [1,8] Connect() starting connection (eNetQOSLevelLow, 155.133.226.74:27017, UDP)
+[2025-12-07 04:37:15] [1,8] ConnectionCompleted() (155.133.248.38:27017, UDP)
+[2025-12-07 04:37:16] [1,8] RecvMsgClientLogOnResponse() : [A:1:2640280591:47955] 'OK'
+
+
+[2025-12-07 04:39:41] Log session started
+[2025-12-07 04:39:41] [0,0] SetSteamID( [A:1:0:0] )
+[2025-12-07 04:39:41] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api. . .
+[2025-12-07 04:39:41] CCMInterface::YieldingConnect -- got 85 CMs from ISteamDirectory/GetCMList.
+[2025-12-07 04:39:41] [1,4] Connect() starting connection (eNetQOSLevelMedium, 155.133.252.40:27017, UDP)
+[2025-12-07 04:39:42] [1,4] ConnectionCompleted() (155.133.252.54:27017, UDP)
+[2025-12-07 04:39:42] [1,4] RecvMsgClientLogOnResponse() : [A:1:4035135503:47955] 'OK'
+
+
+[2025-12-07 04:41:38] Log session started
+[2025-12-07 04:41:38] [0,0] SetSteamID( [A:1:0:0] )
+[2025-12-07 04:41:38] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api. . .
+[2025-12-07 04:41:38] CCMInterface::YieldingConnect -- got 85 CMs from ISteamDirectory/GetCMList.
+[2025-12-07 04:41:38] [1,4] Connect() starting connection (eNetQOSLevelMedium, 155.133.226.76:27017, UDP)
+[2025-12-07 04:41:39] [1,4] ConnectionCompleted() (155.133.252.54:27017, UDP)
+[2025-12-07 04:41:39] [1,4] RecvMsgClientLogOnResponse() : [A:1:4035974159:47955] 'OK'
+
+
+[2025-12-07 05:13:38] Log session started
+[2025-12-07 05:13:38] [0,0] SetSteamID( [A:1:0:0] )
+[2025-12-07 05:13:39] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api. . .
+[2025-12-07 05:13:39] CCMInterface::YieldingConnect -- got 85 CMs from ISteamDirectory/GetCMList.
+[2025-12-07 05:13:39] [1,4] Connect() starting connection (eNetQOSLevelMedium, 162.254.197.38:27017, UDP)
+[2025-12-07 05:13:40] [1,4] ConnectionCompleted() (155.133.252.40:27017, UDP)
+[2025-12-07 05:13:40] [1,4] RecvMsgClientLogOnResponse() : [A:1:148401167:47956] 'OK'
+
+
+[2025-12-07 05:15:20] Log session started
+[2025-12-07 05:15:20] [0,0] SetSteamID( [A:1:0:0] )
+[2025-12-07 05:15:20] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api. . .
+[2025-12-07 05:15:21] CCMInterface::YieldingConnect -- got 85 CMs from ISteamDirectory/GetCMList.
+[2025-12-07 05:15:21] [1,4] Connect() starting connection (eNetQOSLevelMedium, 155.133.226.74:27017, UDP)
+[2025-12-07 05:15:22] [1,4] ConnectionCompleted() (155.133.248.38:27017, UDP)
+[2025-12-07 05:15:22] [1,4] RecvMsgClientLogOnResponse() : [A:1:148985871:47956] 'OK'
+
+
+[2025-12-07 05:19:31] Log session started
+[2025-12-07 05:19:31] [0,0] SetSteamID( [A:1:0:0] )
+[2025-12-07 05:19:31] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api. . .
+[2025-12-07 05:19:31] CCMInterface::YieldingConnect -- got 85 CMs from ISteamDirectory/GetCMList.
+[2025-12-07 05:19:31] [1,4] Connect() starting connection (eNetQOSLevelMedium, 162.254.197.38:27017, UDP)
+[2025-12-07 05:19:32] [1,4] ConnectionCompleted() (162.254.198.46:27017, UDP)
+[2025-12-07 05:19:32] [1,4] RecvMsgClientLogOnResponse() : [A:1:350073871:47956] 'OK'
+
+
+[2025-12-07 05:20:20] Log session started
+[2025-12-07 05:20:20] [0,0] SetSteamID( [A:1:0:0] )
+[2025-12-07 05:20:20] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api. . .
+[2025-12-07 05:20:20] CCMInterface::YieldingConnect -- got 85 CMs from ISteamDirectory/GetCMList.
+[2025-12-07 05:20:20] [1,4] Connect() starting connection (eNetQOSLevelMedium, 162.254.197.38:27017, UDP)
+[2025-12-07 05:20:21] [1,4] ConnectionCompleted() (162.254.198.46:27017, UDP)
+[2025-12-07 05:20:21] [1,4] RecvMsgClientLogOnResponse() : [A:1:350354447:47956] 'OK'
+
+
+[2025-12-07 06:47:10] Log session started
+[2025-12-07 06:47:10] [0,0] SetSteamID( [A:1:0:0] )
+[2025-12-07 06:47:10] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api. . .
+[2025-12-07 06:47:11] CCMInterface::YieldingConnect -- got 85 CMs from ISteamDirectory/GetCMList.
+[2025-12-07 06:47:11] [1,4] Connect() starting connection (eNetQOSLevelMedium, 162.254.197.38:27017, UDP)
+[2025-12-07 06:47:11] [1,4] ConnectionCompleted() (155.133.252.54:27017, UDP)
+[2025-12-07 06:47:12] [1,4] RecvMsgClientLogOnResponse() : [A:1:1887610895:47956] 'OK'
+
+
+[2025-12-07 06:47:57] Log session started
+[2025-12-07 06:47:57] [0,0] SetSteamID( [A:1:0:0] )
+[2025-12-07 06:47:57] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api. . .
+[2025-12-07 06:47:58] CCMInterface::YieldingConnect -- got 85 CMs from ISteamDirectory/GetCMList.
+[2025-12-07 06:47:58] [1,4] Connect() starting connection (eNetQOSLevelMedium, 162.254.197.38:27017, UDP)
+[2025-12-07 06:47:59] [1,4] ConnectionCompleted() (155.133.226.78:27017, UDP)
+[2025-12-07 06:47:59] [1,4] RecvMsgClientLogOnResponse() : [A:1:1887849487:47956] 'OK'
+
+
+[2025-12-07 07:41:18] Log session started
+[2025-12-07 07:41:18] [0,0] SetSteamID( [A:1:0:0] )
+[2025-12-07 07:41:18] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api. . .
+[2025-12-07 07:41:19] CCMInterface::YieldingConnect -- got 85 CMs from ISteamDirectory/GetCMList.
+[2025-12-07 07:41:19] [1,4] Connect() starting connection (eNetQOSLevelMedium, 155.133.226.74:27017, UDP)
+[2025-12-07 07:41:20] [1,4] ConnectionCompleted() (162.254.197.39:27017, UDP)
+[2025-12-07 07:41:20] [1,4] RecvMsgClientLogOnResponse() : [A:1:581461007:47957] 'OK'
+
+
+[2025-12-07 07:46:42] Log session started
+[2025-12-07 07:46:42] [0,0] SetSteamID( [A:1:0:0] )
+[2025-12-07 07:46:42] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api. . .
+[2025-12-07 07:46:42] CCMInterface::YieldingConnect -- got 85 CMs from ISteamDirectory/GetCMList.
+[2025-12-07 07:46:42] [1,4] Connect() starting connection (eNetQOSLevelMedium, 155.133.226.76:27017, UDP)
+[2025-12-07 07:46:43] [1,4] ConnectionCompleted() (162.254.197.38:27017, UDP)
+[2025-12-07 07:46:43] [1,4] RecvMsgClientLogOnResponse() : [A:1:583775247:47957] 'OK'
+
+
+[2025-12-07 07:47:53] Log session started
+[2025-12-07 07:47:53] [0,0] SetSteamID( [A:1:0:0] )
+[2025-12-07 07:47:54] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api. . .
+[2025-12-07 07:47:54] CCMInterface::YieldingConnect -- got 85 CMs from ISteamDirectory/GetCMList.
+[2025-12-07 07:47:54] [1,4] Connect() starting connection (eNetQOSLevelMedium, 155.133.226.76:27017, UDP)
+[2025-12-07 07:47:55] [1,4] ConnectionCompleted() (162.254.197.54:27017, UDP)
+[2025-12-07 07:47:55] [1,4] RecvMsgClientLogOnResponse() : [A:1:584300559:47957] 'OK'
+
+
+[2025-12-07 07:51:59] Log session started
+[2025-12-07 07:51:59] [0,0] SetSteamID( [A:1:0:0] )
+[2025-12-07 07:51:59] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api. . .
+[2025-12-07 07:51:59] CCMInterface::YieldingConnect -- got 85 CMs from ISteamDirectory/GetCMList.
+[2025-12-07 07:51:59] [1,4] Connect() starting connection (eNetQOSLevelMedium, 162.254.197.38:27017, UDP)
+[2025-12-07 07:52:00] [1,4] ConnectionCompleted() (155.133.252.54:27017, UDP)
+[2025-12-07 07:52:00] [1,4] RecvMsgClientLogOnResponse() : [A:1:893500431:47957] 'OK'
