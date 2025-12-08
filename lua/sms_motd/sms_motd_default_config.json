@@ -5,7 +5,7 @@ version : 1
 config : {
 
 	// The message to send to each new session member. If empty, "Welcome to 'SERVER_NAME'" will be used.
-	"motd" : "",
+	"motd" : "Welcome to RaceStars! Good luck!",
 
 	// Array of setup fields to send, if more than the motd should be printed. The allowed fields are:
 	// - "controls" - what's controlled by the server (setup, track, vehicle, class)
