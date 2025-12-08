@@ -15,7 +15,7 @@
     // - "restrictions" - various restrictions (few lines)
     // - "weather" - weather transitions and speed
     // - "date" - starting date/time and speed
-    "send_setup" : [], // <-- Вот что нужно изменить: сделать массив пустым
+    "send_setup" : [],
 
     // Send the messages  to everyone also after returning back to the lobby?
     "send_when_returning_to_lobby" : true
